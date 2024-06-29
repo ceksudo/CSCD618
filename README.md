@@ -10,6 +10,11 @@ DEEP LEARNING AND NEUTRAL NETWORKS
 - [ELE539/COS512: Optimization for Machine Learning](https://sites.google.com/view/cjin/teaching/ece539cos512-2021-ver?authuser=0)
 - [Optimization Algorithms](https://www.youtube.com/playlist?list=PLXsmhnDvpjORzPelSDs0LSDrfJcqyLlZc)
 - [Probability and Optimization for Deep Learning](https://www.youtube.com/playlist?list=PLTtM9ThZ2L-cQukAXNNnOPNRPn7Ial5HV) | [notes](https://tifr-2023-ml-opt.bitbucket.io/)
+- [Optimization Techniques (ENGG-6140) - University of Guelph](https://bghojogh.github.io/pages/uoguelph/engg-6140-w23/)
+- [Convex Optimization](https://www.youtube.com/playlist?list=PLTtM9ThZ2L-cVbe7pA-OP7qV8SmwajsLJ)
+- [Stanford EE364A Convex Optimization ](https://www.youtube.com/playlist?list=PLoROMvodv4rMJqxxviPa4AmDClvcbHi6h)
+- [EE5606 Convex Optimization 2024](https://www.youtube.com/playlist?list=PLMmTBP3nE-rTOd0xHFqKZT7aJEuq-wPi6)
+  
 
 # Application in Natural Language Processing Research
 - [0. EN 601.468/668 Machine Translation](http://mt-class.org/jhu/index.html)
