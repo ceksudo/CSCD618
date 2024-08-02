@@ -3,6 +3,7 @@ DEEP LEARNING AND NEUTRAL NETWORKS
 
 - [Deep Learning (ENGG-6600) Fall 2023 - University of Guelph](https://bghojogh.github.io/pages/uoguelph/engg-6600-07-f23/)
 - [Deep Learning (ENGG-6600) Summer 2023 - University of Guelph](https://bghojogh.github.io/pages/uoguelph/engg-6600-01-s23/)
+- [DEEP LEARNING SPRING 2022](https://atcold.github.io/NYU-DLFL22/) || [DEEP LEARNING SPRING 2021](https://atcold.github.io/NYU-DLSP21/)
 
 # Optimization in ML and Deep Learning
 - [CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU) | [Notes](https://github.com/rishabhk108/AdvancedOptML)
