@@ -5,7 +5,9 @@ DEEP LEARNING AND NEUTRAL NETWORKS
 - [Deep Learning (ENGG-6600) Summer 2023 - University of Guelph](https://bghojogh.github.io/pages/uoguelph/engg-6600-01-s23/)
 - [DEEP LEARNING SPRING 2022](https://atcold.github.io/NYU-DLFL22/) || [DEEP LEARNING SPRING 2021](https://atcold.github.io/NYU-DLSP21/)
 - [11-785 Introduction to Deep Learning](https://deeplearning.cs.cmu.edu/F24/index.html)
+- [TTIC 31230: Fundamentals of Deep Learning](https://mcallester.github.io/ttic-31230/)
 - [deep learning KAIST AI502](https://www.youtube.com/playlist?list=PLsQI3WOaT8hjPRvPVM4gQHV2im1y3nlXu)
+- [CS 152: Neural Networks](https://www.youtube.com/watch?v=ITzGIMWvd2c&list=PL2Yggtk_pK69nyeIgJsjPN0traCIyMJ_f)
 
 # Optimization in ML and Deep Learning
 - [CS 7301: Spring 2021 Course on Advanced Topics in Optimization in Machine Learning](https://www.youtube.com/playlist?list=PLGod0_zT9w92_evaYrf3-rE67AmgPJoUU) | [Notes](https://github.com/rishabhk108/AdvancedOptML)
